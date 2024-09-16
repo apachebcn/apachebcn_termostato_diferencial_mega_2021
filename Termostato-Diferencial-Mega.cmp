@@ -1,0 +1,379 @@
+Cmp-Mod V01 Created by PcbNew   date = mar 30 ene 2018 07:14:23 CET
+
+BeginCmp
+TimeStamp = 5A74D7F5
+Path = /5651B2F0
+Reference = U1;
+ValeurCmp = 74HC595;
+IdModule  = Housings_DIP:DIP-16_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 566D659F
+Path = /5651B2F0
+Reference = U1;
+ValeurCmp = 74HC595;
+IdModule  = Housings_DIP:DIP-16_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5685E120
+Path = /5685DA76
+Reference = key-ext1;
+ValeurCmp = L R O B +;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 565247C3
+Path = /5653461D
+Reference = R_key_ok1;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 565247BD
+Path = /56530E80
+Reference = R_key_coded_2;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 565247B7
+Path = /565309C9
+Reference = R_key_coded_1;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5565DB07
+Path = /5651B30C
+Reference = P2;
+ValeurCmp = LCD7_FILA1_ABAJO;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x15;
+EndCmp
+
+BeginCmp
+TimeStamp = 562C4A2C
+Path = /562C6D3B
+Reference = PINS2;
+ValeurCmp = PINS 8-17;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = 55BCAAE2
+Path = /5561CCFD
+Reference = R_ECHO_1;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 556F8722
+Path = /5561C49D
+Reference = R_SONDAS_1;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5561BF09
+Path = /5561C018
+Reference = SONDA_DEP1;
+ValeurCmp = +  -  DATA;
+IdModule  = Connect:bornier3;
+EndCmp
+
+BeginCmp
+TimeStamp = 556265B5
+Path = /564FAA7B
+Reference = RELE-1-2;
+ValeurCmp = +  -  7 8;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 562C4A44
+Path = /562C6A23
+Reference = PINS4;
+ValeurCmp = PINS 0-7;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = 56523754
+Path = /56525715
+Reference = BRILLO1;
+ValeurCmp = 10K;
+IdModule  = Potentiometers:Potentiometer_Triwood_RM-065;
+EndCmp
+
+BeginCmp
+TimeStamp = 56535790
+Path = /56538441
+Reference = AUDIO1;
+ValeurCmp = 10K;
+IdModule  = Potentiometers:Potentiometer_Triwood_RM-065;
+EndCmp
+
+BeginCmp
+TimeStamp = 564FB76B
+Path = /564FB1D4
+Reference = RELE-15-16;
+ValeurCmp = +  -  15 16;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 564FB758
+Path = /564FB08D
+Reference = RELE-13-14;
+ValeurCmp = +  -  13 14;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 564FB745
+Path = /564FAF88
+Reference = RELE-11-12;
+ValeurCmp = +  -  11  12;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 564FB732
+Path = /564FAEBE
+Reference = RELE-9-10;
+ValeurCmp = +  -  9  10;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 556265CD
+Path = /5561D444
+Reference = RELE-7-8;
+ValeurCmp = +  -  1  2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 556265C5
+Path = /5561D9E1
+Reference = RELE-5-6;
+ValeurCmp = +  -  3  4;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 556265BD
+Path = /5561DAC2
+Reference = RELE-3-4;
+ValeurCmp = +  -  5  6;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 567F2A84
+Path = /56526538
+Reference = PANTALLA1;
+ValeurCmp = PANTALLA;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = 565346F9
+Path = /56534EC7
+Reference = SP1;
+ValeurCmp = SPEAKER;
+IdModule  = Buzzers_Beepers:Buzzer_12x9.5RM7.6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5561BEFB
+Path = /5561F0A3
+Reference = SERIAL_DATA1;
+ValeurCmp = +    -    DATA;
+IdModule  = Connect:bornier3;
+EndCmp
+
+BeginCmp
+TimeStamp = 565247B1
+Path = /5653723F
+Reference = R_key_back1;
+ValeurCmp = 4K7;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 562C4A14
+Path = /562C75A8
+Reference = ARDUINO1;
+ValeurCmp = ARDUINO PINS DIGITAL;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x18;
+EndCmp
+
+BeginCmp
+TimeStamp = 565DC66C
+Path = /55674C95
+Reference = AGUA_STOP1;
+ValeurCmp = SW;
+IdModule  = Connect:bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = 562C4A5C
+Path = /562C458D
+Reference = PINS6;
+ValeurCmp = PINS COMUNICACION;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = 562C4A20
+Path = /562C8839
+Reference = PINS1;
+ValeurCmp = PINS POWER;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = 55611242
+Path = /5561BA71
+Reference = SONDA_COL1;
+ValeurCmp = +  -  DATA;
+IdModule  = Connect:bornier3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5561BEE8
+Path = /5561F55A
+Reference = NIVEL_AGUA1;
+ValeurCmp = +   -   ECHO   TRIG;
+IdModule  = Connect:bornier4;
+EndCmp
+
+BeginCmp
+TimeStamp = 5561124E
+Path = /5561C0E5
+Reference = SONDA_TERM1;
+ValeurCmp = +  -  DATA;
+IdModule  = Connect:bornier3;
+EndCmp
+
+BeginCmp
+TimeStamp = 56523778
+Path = /56529D0D
+Reference = SW1;
+ValeurCmp = Coded_Switch;
+IdModule  = Buttons_Switches_ThroughHole:KSA_Tactile_SPST;
+EndCmp
+
+BeginCmp
+TimeStamp = 562C4A50
+Path = /562C8845
+Reference = PINS5;
+ValeurCmp = PINS ANALOG A8-A15;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = 5565DAF4
+Path = /5651B30D
+Reference = P1;
+ValeurCmp = LCD7_FILA1_ARRIBA;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x15;
+EndCmp
+
+BeginCmp
+TimeStamp = 56523D9A
+Path = /56529C02
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH-12mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 566D65FF
+Path = /5652025E
+Reference = U3;
+ValeurCmp = 74HC595;
+IdModule  = Housings_DIP:DIP-16_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5653B32E
+Path = /56540B19
+Reference = D9;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5653B316
+Path = /56540A74
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5653B310
+Path = /5653FC6C
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5653B2FE
+Path = /5653F42E
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5653B304
+Path = /5653F5A3
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5653B30A
+Path = /5653FC66
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5653B31C
+Path = /56540A7A
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5653B322
+Path = /56540A80
+Reference = D7;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5653B328
+Path = /56540A86
+Reference = D8;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-1206;
+EndCmp
+
+EndListe

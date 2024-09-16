@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Termostato_v5-rescue)(type Legacy)(uri ${KIPRJMOD}/Termostato_v5-rescue.lib)(options "")(descr ""))
+  (lib (name Termostato-Mega-rescue)(type Legacy)(uri ${KIPRJMOD}/Termostato-Mega-rescue.lib)(options "")(descr ""))
+  (lib (name Termostato-Diferencial-Mega-rescue)(type Legacy)(uri ${KIPRJMOD}/Termostato-Diferencial-Mega-rescue.lib)(options "")(descr ""))
+)
